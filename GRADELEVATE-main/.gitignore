@@ -1,0 +1,14 @@
+# Backend sensitive config
+AI Career Guidance Agent-backend/src/main/resources/application.properties
+
+# Backend build files
+AI Career Guidance Agent-backend/target/
+
+# Frontend dependencies
+AI Career Guidance Agent-frontend/node_modules/
+AI Career Guidance Agent-frontend/dist/
+
+# IDE files
+.idea/
+*.iml
+.vscode/

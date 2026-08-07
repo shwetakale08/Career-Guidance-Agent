@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://AI Career Guidance Agent.onrender.com/api';
