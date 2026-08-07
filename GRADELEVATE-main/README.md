@@ -283,14 +283,6 @@ The project includes SQL scripts to populate:
 
 ---
 
-## 🙋 Author
-
-**Sakib Ayan Sheikh**
-- GitHub: [@Ayansheikh47](https://github.com/Ayansheikh47)
-- Email: ayansheikh8767@gmail.com
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
